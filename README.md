@@ -9,3 +9,5 @@ to senior technical management at the exec level.
 
 My career focus has been on leading edge product development using novel, sometimes esoteric technologies
 to solve real world problems.
+
+My latest focus is learning to use Docker and lightweight container technologies.
